@@ -13,8 +13,8 @@ body{
   perspective: 1200px;
 }
 .head_top{
-	padding-top: 0.4rem;
-	padding-bottom: 0.35rem;
+	padding-top: 0.3rem;
+	padding-bottom: 0.28rem;
 }
 .head_top a{
 	display: block;
@@ -73,7 +73,7 @@ body{
 #pagination{
 	position: absolute;
 	width: 100%;
-	bottom: 0.45rem;
+	bottom: 0.4rem;
 }
 #pagination .swiper-pagination-bullet{
 	width: 0.2rem;
